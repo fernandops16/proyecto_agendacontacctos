@@ -1,0 +1,1 @@
+Este proyecto es una aplicación de escritorio tipo agenda de contactos, desarrollada en Python utilizando el framework Flet para la interfaz gráfica y SQLite como base de datos local. La aplicación sigue una arquitectura MVC (Modelo-Vista-Controlador), separando la lógica de datos, la interfaz y el control de la aplicación para mantener el código organizado y escalable.
